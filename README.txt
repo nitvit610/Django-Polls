@@ -1,0 +1,1 @@
+Creating a Django site using Python 3.x and Django's tutorial at https://docs.djangoproject.com/en/1.10/intro/
